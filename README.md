@@ -10,4 +10,6 @@ Just clone it and run. No external library or databases needed.
 
 ## Development
 It has some bugs or issues because it was created for advanced programming course in my third semester but I develope it as soon as possible.
-I wonder if you could help me :)
+
+## Contributions
+I appreciate all contributions, so feel free to create issues or pull requests! :)
